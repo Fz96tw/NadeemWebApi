@@ -1,0 +1,10 @@
+/Users/nadeem/Projects/NadeemWebAPI/NadeemWebAPI/bin/Debug/netcoreapp2.0/NadeemWebAPI.deps.json
+/Users/nadeem/Projects/NadeemWebAPI/NadeemWebAPI/bin/Debug/netcoreapp2.0/NadeemWebAPI.runtimeconfig.json
+/Users/nadeem/Projects/NadeemWebAPI/NadeemWebAPI/bin/Debug/netcoreapp2.0/NadeemWebAPI.runtimeconfig.dev.json
+/Users/nadeem/Projects/NadeemWebAPI/NadeemWebAPI/bin/Debug/netcoreapp2.0/NadeemWebAPI.dll
+/Users/nadeem/Projects/NadeemWebAPI/NadeemWebAPI/bin/Debug/netcoreapp2.0/NadeemWebAPI.pdb
+/Users/nadeem/Projects/NadeemWebAPI/NadeemWebAPI/obj/Debug/netcoreapp2.0/NadeemWebAPI.csproj.CoreCompileInputs.cache
+/Users/nadeem/Projects/NadeemWebAPI/NadeemWebAPI/obj/Debug/netcoreapp2.0/NadeemWebAPI.AssemblyInfoInputs.cache
+/Users/nadeem/Projects/NadeemWebAPI/NadeemWebAPI/obj/Debug/netcoreapp2.0/NadeemWebAPI.AssemblyInfo.cs
+/Users/nadeem/Projects/NadeemWebAPI/NadeemWebAPI/obj/Debug/netcoreapp2.0/NadeemWebAPI.dll
+/Users/nadeem/Projects/NadeemWebAPI/NadeemWebAPI/obj/Debug/netcoreapp2.0/NadeemWebAPI.pdb
